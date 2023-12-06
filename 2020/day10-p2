@@ -1,0 +1,6 @@
+with open('/Users/matt/Projects/Advent of Code/2020/aoc-day10-input.txt') as my_file:
+    adapter_strings = my_file.readlines()
+
+adapters = [int(i) for i in adapter_strings]
+
+adapters.sort()

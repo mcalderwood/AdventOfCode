@@ -1,0 +1,14 @@
+iyr:2010 ecl:gry hgt:181cm
+pid:591597745 byr:1920 hcl:#6b5442 eyr:2029 cid:123
+
+cid:223 byr:1927
+hgt:177cm hcl:#602927 iyr:2016 pid:404183620
+ecl:amb
+eyr:2020
+
+Gold = 2 + 62*2 = 
+Red = 2 + 30*2 = 62
+Orange = 2 + 14*2 = 30
+Yellow = 2 + 6*2 = 14
+
+Green contain 6

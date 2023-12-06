@@ -1,0 +1,21 @@
+inp w
+inp x
+add w 1
+mul x 0
+add x 5
+add w x
+mul w x
+div w 2
+mul x 0
+add x 6
+div w x
+mod w 3
+mul x 0
+add x 2
+mul w 0
+add w 37
+mod w x
+eql w 0
+add w 44
+add x 42
+eql w x
